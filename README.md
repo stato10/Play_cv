@@ -4,8 +4,8 @@ A full-stack application showcasing my skills and experience through an interact
 
 ## Project Structure
 
-- `play_cv_client/` - Frontend application
-- `play_cv_server/` - Backend server
+- `play_cv_client/` - Frontend application built with React
+- `play_cv_server/` - Backend server built with Python
 - `.qodo/` - Project configuration and resources
 
 ## Features
@@ -14,26 +14,33 @@ A full-stack application showcasing my skills and experience through an interact
 - Real-time updates
 - Responsive design
 - Modern tech stack
+- Dynamic content management
+- Cross-platform compatibility
 
 ## Tech Stack
 
-- Frontend: [Add your frontend technologies]
-- Backend: [Add your backend technologies]
-- Database: [Add your database technology]
+- Frontend: React.js, HTML5, CSS3, JavaScript
+- Backend: Python, Flask
+- Database: SQLite
+- Version Control: Git
+- Development Tools: VS Code, npm, pip
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js
-- Python
-- [Add any other prerequisites]
+- Node.js (v14 or higher)
+- Python (v3.8 or higher)
+- Git
+- npm or yarn
+- pip (Python package manager)
 
 ### Installation
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/stato10/Play_cv.git
+cd Play_cv
 ```
 
 2. Install frontend dependencies:
@@ -62,10 +69,16 @@ cd play_cv_client
 npm start
 ```
 
+The application will be available at `http://localhost:3000`
+
+## Project Status
+
+🚧 Under Development
+
 ## License
 
-[Add your license information]
+MIT License
 
 ## Contact
 
-[Add your contact information] 
+GitHub: [@stato10](https://github.com/stato10) 
