@@ -2,6 +2,10 @@
 
 A full-stack application showcasing my skills and experience through an interactive CV platform.
 
+## Live Demo
+
+Visit the live application at: [Play CV Demo](https://stato10.github.io/Play_cv/)
+
 ## Project Structure
 
 - `play_cv_client/` - Frontend application built with React
@@ -24,6 +28,7 @@ A full-stack application showcasing my skills and experience through an interact
 - Database: SQLite
 - Version Control: Git
 - Development Tools: VS Code, npm, pip
+- Deployment: GitHub Pages, GitHub Actions
 
 ## Getting Started
 
@@ -70,6 +75,10 @@ npm start
 ```
 
 The application will be available at `http://localhost:3000`
+
+## Deployment
+
+The application is automatically deployed to GitHub Pages whenever changes are pushed to the main branch. The deployment process is handled by GitHub Actions.
 
 ## Project Status
 
